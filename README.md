@@ -1,7 +1,9 @@
 
 # TIC-TAC-TOE GAME USING REACT
 
-To create a Tic Tac Toe game in React, you'll need three main components: Game, Board, and Square. The Game component manages the game state, including the current player and game history. Board renders the 3x3 grid of squares, and Square represents individual squares. Use React state to track game progress, handle square clicks to update their state (X or O), and check for a winner by defining winning combinations. Display game status, allow time travel for previous moves, and offer a reset option for a new game. Add CSS styling for a visually appealing design, test thoroughly, and deploy the game to a hosting service for others to enjoy.
+To create a Tic Tac Toe game in React, you'll need three main components: Game, Board, and Square. The Game component manages the game state, including the current player and game history. Board renders the 3x3 grid of squares, and Square represents individual squares. Use React state to track game progress, handle square clicks to update their state (X or O), and check for a winner by defining winning combinations. Display game status, allow time travel for previous moves, and offer a reset option for a new game. Add CSS styling for a visually appealing design, test thoroughly, and deploy the game to a hosting service for others to enjoy. <br>
+
+## Link 👉 https://tic-tac-toe-game-weld-five.vercel.app/
 
 
 
