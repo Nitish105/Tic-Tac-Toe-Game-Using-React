@@ -11,7 +11,7 @@ To create a Tic Tac Toe game in React, you'll need three main components: Game, 
 
 **Client:** React, HTML, CSS, JSX
 
-**Server:** Node
+**Server:** Nodejs
 
 
 ## Installation
